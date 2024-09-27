@@ -30,3 +30,4 @@ C:\Users\Elvis Farias\source\repos\gestor-livraria\obj\Debug\net8.0\refint\gesto
 C:\Users\Elvis Farias\source\repos\gestor-livraria\obj\Debug\net8.0\gestor-livraria.pdb
 C:\Users\Elvis Farias\source\repos\gestor-livraria\obj\Debug\net8.0\gestor-livraria.genruntimeconfig.cache
 C:\Users\Elvis Farias\source\repos\gestor-livraria\obj\Debug\net8.0\ref\gestor-livraria.dll
+C:\Users\Elvis Farias\source\repos\gestor-livraria\obj\Debug\net8.0\gestor-livraria.sourcelink.json

@@ -6,13 +6,7 @@
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
-      {
-        "Name": "livro",
-        "Type": "gestor_livraria.Livros",
-        "IsRequired": true
-      }
-    ],
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
@@ -24,7 +18,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "livro",
+        "Name": "novoLivro",
         "Type": "gestor_livraria.Livros",
         "IsRequired": true
       }
